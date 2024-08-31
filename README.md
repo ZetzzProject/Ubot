@@ -1,3 +1,4 @@
 just simple
 
-bash'''pkg update -y && pkg upgrade -y && pkg install python -y && pip install telethon'''
+bash
+'''pkg update -y && pkg upgrade -y && pkg install python -y && pip install telethon'''
