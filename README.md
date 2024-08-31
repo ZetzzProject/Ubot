@@ -1,6 +1,10 @@
-just simple
+<b>Just a Simple Ubot Telegram</b>
 # Installation
-```shpkg update -y && pkg upgrade -y && pkg install python -y && pip install telethon```
+```sh
+pkg update -y && pkg upgrade -y && pkg install python -y && pip install telethon
+```
 
 # Run
-```shcd Ubot && python NewUbot.py```
+```sh
+cd Ubot && python NewUbot.py
+```
