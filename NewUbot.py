@@ -2,9 +2,9 @@ from telethon import TelegramClient, events
 import os
 
 
-api_id = '25247192'  
-api_hash = '0ce6d3a68aec15e7d99d9c65c6c5cce5'  
-phone_number = '+6281239621820'  
+api_id = ''  
+api_hash = ''  
+phone_number = ''  
 
 session_file = 'session_name.session'
 
